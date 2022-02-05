@@ -7,7 +7,8 @@
  - 📓 I'm currently a 3rd year student pursuing a degree in **Computer Science**
  - 🌱 I’m currently learning **Web development** to pursue a career in Web development
  - 😄 Pronouns: he/him
- - 📫 How to reach me: Through my <a href"mailto:francisgian.fgm@gmail.com">Email</a>
+ - 📫 How to reach me: Through my <a href="mailto:francisgian.fgm@gmail.com">Email</a>
+
  
 
 <!--
