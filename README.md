@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 style="text-align: center">Hi there 👋, I'm Francis Gian </h1>
 
 <!--
 **muggleboii/muggleboii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
