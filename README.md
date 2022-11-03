@@ -9,7 +9,6 @@
  - 🌱 I’m currently learning **Web development** to pursue a career in Web development
  - 😄 Pronouns: he/him
  - 📫 How to reach me: Through my <a href="mailto:francisgian.fgm@gmail.com">Email</a>
-- ⚡ Fun fact: I like listening to Taylor Swift xD
  
 
 <!--
