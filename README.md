@@ -5,8 +5,6 @@
 <img src="https://komarev.com/ghpvc/?username=muggleboii&color=blue&style=plastic" alt="muggleboii" />
 
 ## 👨‍💻About Me
- - 📓 I'm currently a 4th year student pursuing a degree in **Computer Science**
- - 🌱 I’m currently learning **Web development** to pursue a career in Web development
  - 😄 Pronouns: he/him
  - 📫 How to reach me: Through my <a href="mailto:francisgian.fgm@gmail.com">Email</a>
  
